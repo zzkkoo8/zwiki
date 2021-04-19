@@ -1,2 +1,1 @@
-# zwiki
-# zwiki
+[zwiki](https://zzkkoo8.github.io/zwiki/ "wiki")
