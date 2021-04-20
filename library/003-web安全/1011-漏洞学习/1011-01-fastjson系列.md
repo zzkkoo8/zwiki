@@ -12,4 +12,3 @@ java -cp marshalsec-0.0.3-SNAPSHOT-all.jar marshalsec.jndi.RMIRefServer http://1
 
 
 ![](assets/101/20210419-5b16d80a.png)  
-![](assets/101/20210419-5b16d80a.png)  
