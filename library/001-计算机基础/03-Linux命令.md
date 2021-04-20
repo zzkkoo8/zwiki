@@ -1,10 +1,8 @@
-# Linux命令大全
+# Linux常用命令
 [TOC]
 ## 用户权限
 ### whami
 ### chmod
-###
-### 
 
 ## 文本处理
 ### cat

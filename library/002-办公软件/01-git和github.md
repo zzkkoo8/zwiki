@@ -34,18 +34,25 @@ git commit -m "0420"
 git push origin master
 ```
 
-## 命令大全详解
+## 命令速查
 ### git init
-### git add file2.txt file3.txt
-### git commit -m "add 3 files.
+### git add
+git add ./  
+git add file2.txt file3.txt
+### git commit
+git commit -m "add 3 files."
 ### git status
 ### git diff
 ### git log
-git log --pretty=oneline
+回到历史，显示从最近到最远的提交日志  
+`git log --pretty=oneline`
 ### git reset
-git reset --hard HEAD^
-git reset --hard 4e84e4
-
-
-git diff使用的是diff合并格式的变种，参考：
+回退到上一个版本  
+`git reset --hard HEAD^`  
+回退到指定版本  
+`git reset --hard 4e84e4`
+### git reflog
+回到未来，记录你的每一次命令  
+### git diff
+使用的是diff合并格式的变种，参考：  
 http://www.ruanyifeng.com/blog/2012/08/how_to_read_diff.html
