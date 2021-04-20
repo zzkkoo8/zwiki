@@ -1,6 +1,15 @@
 # Linux命令大全
 [TOC]
+## 用户权限
+### whami
+### chmod
+###
+### 
 
+## 文本处理
+### cat
+### tee
+### tail
 ### diff
 - 正常格式（normal diff）
 - 上下文格式（context diff）

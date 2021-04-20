@@ -40,6 +40,12 @@ git push origin master
 ### git commit -m "add 3 files.
 ### git status
 ### git diff
-### git diff
+### git log
+git log --pretty=oneline
+### git reset
+git reset --hard HEAD^
+git reset --hard 4e84e4
+
+
 git diff使用的是diff合并格式的变种，参考：
 http://www.ruanyifeng.com/blog/2012/08/how_to_read_diff.html
