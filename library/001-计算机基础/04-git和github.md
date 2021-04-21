@@ -62,4 +62,8 @@ git commit -m "add 3 files."
 http://www.ruanyifeng.com/blog/2012/08/how_to_read_diff.html
 ### git checkout
 丢弃工作区的修改，让这个文件回到最近一次git commit或git add时的状态
-`git checkout -- file.md`
+`git checkout -- test.txt`
+### git rm
+`rm`
+`git rm test.txt`或`git add test.txt`
+`git commit -m "remove test.txt"`
