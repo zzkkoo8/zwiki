@@ -47,6 +47,8 @@ git commit -m "add 3 files."
 回到历史，显示从最近到最远的提交日志  
 `git log --pretty=oneline`
 ### git reset
+把暂存区的修改回退到工作区  
+`git reset HEAD readme.txt`  
 回退到上一个版本  
 `git reset --hard HEAD^`  
 回退到指定版本  
@@ -54,5 +56,10 @@ git commit -m "add 3 files."
 ### git reflog
 回到未来，记录你的每一次命令  
 ### git diff
+查看工作区和版本库里面最新版本的区别
+`git diff HEAD -- readme.txt`
 使用的是diff合并格式的变种，参考：  
 http://www.ruanyifeng.com/blog/2012/08/how_to_read_diff.html
+### git checkout
+丢弃工作区的修改，让这个文件回到最近一次git commit或git add时的状态
+`git checkout -- file.md`
