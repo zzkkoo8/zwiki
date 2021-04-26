@@ -1,7 +1,7 @@
 # git和github
 >git是个工具github是git的托管服务器
 
-[TOC]
+[MENU]
 
 ## git入门
 [官方教程](https://docs.github.com/cn/github "官方")
