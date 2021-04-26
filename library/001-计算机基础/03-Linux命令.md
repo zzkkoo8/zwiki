@@ -1,7 +1,7 @@
 # Linux常用命令
 [TOC]
 ## 用户权限
-### whami
+### whoami
 ### chmod
 
 ## 文本处理
