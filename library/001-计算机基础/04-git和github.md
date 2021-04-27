@@ -1,11 +1,11 @@
 # git和github
 >git是个工具github是git的托管服务器
 
-[MENU]
+[TOC]
 
 ## git入门
 [官方教程](https://docs.github.com/cn/github "官方")
-[廖雪峰大佬](https://www.liaoxuefeng.com/wiki/896043488029600 "廖雪峰")
+[廖雪峰大佬](https://www.liaoxuefeng.com/wiki/896043488029600 "廖雪峰")  
 
 ## 建立文件夹git初始化
 ```
