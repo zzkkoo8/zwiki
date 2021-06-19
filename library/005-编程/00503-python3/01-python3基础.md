@@ -1,9 +1,16 @@
 # python3基础
 
-
+## anaconda使用说明
+anaconda 是python集成管理环境  
+```
+conda info --envs  #查看环境
+conda create --name snakes python=3.9  #创建环境
+activate snakes  #激活环境snakes
+conda list  #查看已经安装包
+conda install beautifulsoup4  #安装指定包到当前环境
+```
 
 ## 基础语法
-
 
 
 ### 转义字符
@@ -17,4 +24,3 @@
 
 
 ## 常用库
-

@@ -6,7 +6,6 @@
 - [Windows命令](?file=001-计算机基础/02-Windows命令 "Windows命令")
 - [Linux命令](?file=001-计算机基础/03-Linux命令 "Linux命令")
 - [git和github](?file=001-计算机基础/04-git和github "git和github")
-- [docker](?file=001-计算机基础/05-docker "docker")
 
 ##### HW
 - [HW总结](?file=002-HW/01-HW总结 "HW总结")
@@ -33,4 +32,9 @@
 - **Go**
 - **易语言**
 
+##### 中间件和组件
+- [docker](?file=006-中间件和组件/01-docker "docker")
+
 ##### 中医养生
+- [出差宝典](?file=009-中医养生/01-出差宝典 "出差宝典")
+- [运动减肥](?file=009-中医养生/02-运动减肥 "运动减肥")
