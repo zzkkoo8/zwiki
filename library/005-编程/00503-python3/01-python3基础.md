@@ -11,7 +11,16 @@ conda install beautifulsoup4  #安装指定包到当前环境
 ```
 
 ## 基础语法
+### 不可变数据  
+#### Number  
+1、int整形  
+2、float浮点型  
+3、complex复数  
+4、bool布尔  
+#### String
 
+
+## 基本数据类型
 
 ### 转义字符
 
@@ -20,7 +29,5 @@ conda install beautifulsoup4  #安装指定包到当前环境
 ![点击关闭图片](https://xiaoke-asset-prod.kaikeba.com/smallcourse/OnhYKpd6GxksBA9qhXG/708c012a-abe9-4c55-8ea9-78766b4eaddc/image/2/17.jpg)
 
 ## 常用函数
-
-
 
 ## 常用库
